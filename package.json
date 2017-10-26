@@ -1,0 +1,12 @@
+{
+  "name": "tstest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -t ESNEXT index"
+  },
+  "dependencies": {
+    "typescript": "^2.7.0-dev.20171026"
+  }
+}
